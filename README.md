@@ -6,7 +6,7 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 
 1. [Problem 1: Recursive Common Table Expression (CTE)](Challenges/Challenge_01.md)
 2. [Problem 2: Window Functions: ROW_NUMBER()](Challenges/Challenge_02.md)
-3. [Window Functions: RANK()](Challenges/Challenge_03.md)
+3. [Problem 3: Window Functions: RANK()](Challenges/Challenge_03.md)
 
 ## How to Use
 
