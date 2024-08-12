@@ -1,33 +1,9 @@
-# Problem 1: Recursive Common Table Expression (CTE)
+# Problem 7: Dynamic SQL
 
-**Problem:** Retrieve the hierarchy of employees and their managers.
-
-**Solution:**
-```sql
-WITH RECURSIVE EmployeeHierarchy AS (
-    SELECT employee_id, first_name, manager_id
-    FROM employees
-    WHERE manager_id IS NULL
-    UNION ALL
-    SELECT e.employee_id, e.first_name, e.manager_id
-    FROM employees e
-    INNER JOIN EmployeeHierarchy eh ON e.manager_id = eh.employee_id
-)
-SELECT * FROM EmployeeHierarchy;
-
-# Problem 1: Recursive Common Table Expression (CTE)
-
-**Problem:** Retrieve the hierarchy of employees and their managers.
+**Problem:** Construct and execute a dynamic SQL Query to retrieve data from specified table.
 
 **Solution:**
 ```sql
-WITH RECURSIVE EmployeeHierarchy AS (
-    SELECT employee_id, first_name, manager_id
-    FROM employees
-    WHERE manager_id IS NULL
-    UNION ALL
-    SELECT e.employee_id, e.first_name, e.manager_id
-    FROM employees e
-    INNER JOIN EmployeeHierarchy eh ON e.manager_id = eh.employee_id
-)
-SELECT * FROM EmployeeHierarchy;
+DECLARE @tablename NVARCHAR(50) = 'employees';
+DECLARE @sql NVARCHAR(MAX) = 'SELECT * FROM' + @ tablename,
+EXEC sp_executesql @sql;
