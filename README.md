@@ -11,6 +11,7 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 5. [Problem 5: Percentile Calculation](Challenges/Challenge_05.md)
 6. [Problem 6: Pivot Table](Challenges/Challenge_06.md)
 7. [Problem 7: Dynamic SQL](Challenges/Challenge_07.md)
+8. [Problem 8: JSON Handling](Challenges/Challenge_08.md)
 
 ## How to Use
 
