@@ -1,4 +1,4 @@
-# Problem 7: JSON Data Handling
+# Problem 8: JSON Data Handling
 
 **Problem:** Retrieve specific values from a JSON column.
 
