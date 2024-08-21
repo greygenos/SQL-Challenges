@@ -13,6 +13,8 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 7. [Problem 7: Dynamic SQL](Challenges/Challenge_07.md)
 8. [Problem 8: JSON Data Handling](Challenges/Challenge_08.md)
 9. [Problem 9: XML Data Handling](Challenges/Challenge_09.md)
+10. [Problem 10: Temporal Tables](Challenges/Challenge_10.md)
+11. 
 
 ## How to Use
 
