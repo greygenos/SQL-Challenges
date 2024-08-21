@@ -4,7 +4,7 @@
 
 **Solution:**
 ```sql
-SELECT e.first_name, e.last_name, d/department_name
+SELECT e.first_name, e.last_name, d.department_name
 FROM employees e
 CROSS APPLY (
   SELECT department_name FROM departments d
