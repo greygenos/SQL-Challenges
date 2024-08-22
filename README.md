@@ -16,7 +16,11 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 10. [Problem 10: Temporal Tables](Challenges/Challenge_10.md)
 11. [Problem 11: Cross Apply](Challenges/Challenge_11.md)
 12. [Problem 12: Outer Apply](Challenges/Challenge_12.md)
+13. [Problem 13: Full-Text Search](Challenges/Challenge_13.md)
+14. [Problem 14: Merge Statement](Challenges/Challenge_14.md)
+15. [Problem 15: Window Functions: NTILE](Challenges/Challenge_15.md)
 
+   
 ## How to Use
 
 1. Clone the repository:
