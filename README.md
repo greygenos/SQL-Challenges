@@ -19,6 +19,7 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 13. [Problem 13: Full-Text Search](Challenges/Challenge_13.md)
 14. [Problem 14: Merge Statement](Challenges/Challenge_14.md)
 15. [Problem 15: Window Functions: NTILE](Challenges/Challenge_15.md)
+16. [Problem 16: Hierarchical Data](Challenges/Challenge_16.md)
 
    
 ## How to Use
