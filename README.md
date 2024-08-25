@@ -20,6 +20,10 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 14. [Problem 14: Merge Statement](Challenges/Challenge_14.md)
 15. [Problem 15: Window Functions: NTILE](Challenges/Challenge_15.md)
 16. [Problem 16: Hierarchical Data](Challenges/Challenge_16.md)
+17. [Problem 17: Rolling Sum](Challenges/Challenge_17.md)
+18. [Problem 18: Correlated Subquery](Challenges/Challenge_18.md)
+19. [Problem 19: Recursive Fibonacci Sequence](Challenges/Challenge_19.md)
+
 
    
 ## How to Use
