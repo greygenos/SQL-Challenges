@@ -23,6 +23,12 @@ This repository contains 25 advanced SQL problems with detailed solutions. The p
 17. [Problem 17: Rolling Sum](Challenges/Challenge_17.md)
 18. [Problem 18: Correlated Subquery](Challenges/Challenge_18.md)
 19. [Problem 19: Recursive Fibonacci Sequence](Challenges/Challenge_19.md)
+20. [Problem 20: Self_Referencing Data](Challenges/Challenge_20.md)
+21. [Problem 21: Finding Gaps in a Sequence](Challenges/Challenge_21.md)
+22. [Problem 22: Cumulative Sum](Challenges/Challenge_22.md)
+23. [Problem 23: Generating Series](Challenges/Challenge_23.md)
+24. [Problem 24: Rank Densely](Challenges/Challenge_24.md)
+25. [Problem 25: Compute Running Average](Challenges/Challenge_25.md)
 
 
    
